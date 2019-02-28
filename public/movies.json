@@ -43,18 +43,7 @@
     "Ticket": "75",
     "TicketSold": "19",
     "TicketAvailable": "56",
-    "SoldOutSeat": {
-      "A": ["6","7","8","10","11","14","15"],
-      "B": ["10","11","12","13","14","15"],
-      "C": ["5","6","10","14","19"],
-      "D": [],
-      "E": [],
-      "F": [],
-      "G": [],
-      "H": [],
-      "I": [],
-      "J": []
-    }
+    "SoldOutSeat": ["A6","A7","A8","A10","A11","A14","A15","B10","B11","B12","B13","B14","B15","C5","C6","C10","C14","C19"]
   },
   "Movies2": {
     "Title":"Avengers: Infinity War",
@@ -64,7 +53,7 @@
     "Runtime":"149 min",
     "Genre":"Action, Adventure, Fantasy, Sci-Fi",
     "Director":"Anthony Russo, Joe Russo",
-    "Writer":"Christopher Markus (screenplay by), Stephen McFeely (screenplay by), Stan Lee (based on the Marvel comics by), Jack Kirby (based on the Marvel comics by), Joe Simon (Captain America created by), Jack Kirby (Captain America created by), Steve Englehart (Star-Lord created by), Steve Gan (Star-Lord created by), Bill Mantlo (Rocket Raccoon created by), Keith Giffen (Rocket Raccoon created by), Jim Starlin (Thanos, Gamora and Drax created by), Stan Lee (Groot created by), Larry Lieber (Groot created by), Jack Kirby (Groot created by), Steve Englehart (Mantis created by), Don Heck (Mantis created by)",
+    "Writer":"Christopher Markus (screenplay by), Stephen McFeely (screenplay by), Stan Lee (based on the Marvel comics by)",
     "Actors":"Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans",
     "Plot":"The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
     "Language":"English",
@@ -100,18 +89,7 @@
     "Ticket": "75",
     "TicketSold": "21",
     "TicketAvailable": "54",
-    "SoldOutSeat": {
-      "A": ["6","7","8","10","11","14","15"],
-      "B": ["10","11","14","15","16,17"],
-      "C": ["2,","3","6","10","19"],
-      "D": ["3","9"],
-      "E": [],
-      "F": [],
-      "G": [],
-      "H": [],
-      "I": [],
-      "J": []
-    }
+    "SoldOutSeat": ["A6","A7","A8","A10","A11","A14","A15","B10","B11","B14","B15","B16","B17","C2,","C3","C6","C10","C19","D3","D9"]
   },
   "Movies3": {
     "Title":"Keluarga Cemara",
@@ -149,18 +127,7 @@
     "Ticket": "75",
     "TicketSold": "5",
     "TicketAvailable": "70",
-    "SoldOutSeat": {
-      "A": ["6","7","8"],
-      "B": ["14"],
-      "C": ["10"],
-      "D": [],
-      "E": [],
-      "F": [],
-      "G": [],
-      "H": [],
-      "I": [],
-      "J": []
-    }
+    "SoldOutSeat":  ["A6","A7","A8","B14","C10"]
   },
   "Movies4": {
     "Title":"Interstellar",
@@ -206,18 +173,7 @@
     "Ticket": "75",
     "TicketSold": "4",
     "TicketAvailable": "71",
-    "SoldOutSeat": {
-      "A": ["8","9"],
-      "B": ["15"],
-      "C": ["3"],
-      "D": [],
-      "E": [],
-      "F": [],
-      "G": [],
-      "H": [],
-      "I": [],
-      "J": []
-    }
+    "SoldOutSeat": ["A8","A9","B15","C3"]
   },
   "Movies5": {
     "Title":"Preman Pensiun",
@@ -255,18 +211,7 @@
     "Ticket": "75",
     "TicketSold": "0",
     "TicketAvailable": "75",
-    "SoldOutSeat": {
-      "A": [],
-      "B": [],
-      "C": [],
-      "D": [],
-      "E": [],
-      "F": [],
-      "G": [],
-      "H": [],
-      "I": [],
-      "J": []
-    }
+    "SoldOutSeat": []
   }
 }
 
