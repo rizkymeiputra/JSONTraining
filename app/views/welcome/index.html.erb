@@ -1,2 +1,22 @@
 <h1>Welcome#index</h1>
 <p>Find me in app/views/welcome/index.html.erb</p>
+
+<script type="text/javascript">
+	$(document).ready(function(){
+
+		console.log('ada')
+
+		$.ajax({ 
+    	type: 'GET', 
+    	url: '/movies.json', 
+    	dataType: 'json',
+    	success: function (data) { 
+    		console.log(data)
+    	},
+	    error: function(e) {
+	       console.log(e);
+	    }
+		});
+		
+	})
+</script>
