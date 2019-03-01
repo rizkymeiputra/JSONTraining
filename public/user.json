@@ -1,0 +1,29 @@
+{
+  "user1": {
+  	"Name": {
+  		"First": "Erika",
+  		"Last": "Ebisawa"
+  	},
+  	"Email": "erikaebisawa@gmail.com",
+  	"Photo": "https://i.imgur.com/d4lTVXZ.jpg",
+  	"Balance": "85000"
+  },
+  "user2": {
+  	"Name": {
+  		"First": "Jinan",
+  		"Last": "Safira"
+  	},
+  	"Email": "jinananan@gmail.com",
+  	"Photo": "https://pbs.twimg.com/media/CbtyVztVAAEWuUA.jpg",
+  	"Balance": "48000"
+  },
+  "user3": {
+  	"Name": {
+  		"First": "Andi",
+  		"Last": "Dian"
+  	},
+  	"Email": "diandi@gmail.com",
+  	"Photo": "https://data.junkee.com/wp-content/uploads/2017/06/Andy-Toy-Story.jpg",
+  	"Balance": "189500"
+  }
+}
