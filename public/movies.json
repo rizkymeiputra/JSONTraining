@@ -89,7 +89,7 @@
     "Ticket": "75",
     "TicketSold": "21",
     "TicketAvailable": "54",
-    "SoldOutSeat": ["A6","A7","A8","A10","A11","A14","A15","B10","B11","B14","B15","B16","B17","C2,","C3","C6","C10","C19","D3","D9"]
+    "SoldOutSeat": ["A6","A7","A8","A10","A11","A14","A15","B10","B11","B14","B15","B16","B17","C2","C3","C6","C10","C19","D3","D9"]
   },
   "Movies3": {
     "Title":"Keluarga Cemara",
