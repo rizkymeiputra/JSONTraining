@@ -1,8 +1,8 @@
-name,parent,value
+name,parent,value,currency
 Origin,,
-grp1,Origin,121
-grp2,Origin,123
-grp3,Origin,211
-grp4,Origin,140
-grp5,Origin,330
-grp6,Origin,125
+Product Name 1,Origin,15,$1,234,56
+Product Name 2,Origin,20,$1,234,56
+Product Name 3,Origin,10,$1,234,56
+Product Name 4,Origin,25,$1,234,56
+Product Name 5,Origin,14,$1,234,56
+Product Name 6,Origin,16,$1,234,56
